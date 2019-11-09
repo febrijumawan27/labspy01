@@ -1,8 +1,11 @@
 #latihan1
 
-CARA PEMBUATAN REPOSITORY LOCAL dan PEMBUATAN FILE README.md MENGGUNAKAN GIT
-LANGKAH-LANGKAH :
-1. INSTALL GIT
+**CARA PEMBUATAN REPOSITORY LOCAL dan PEMBUATAN FILE README.md MENGGUNAKAN GIT
+LANGKAH-LANGKAH :**
+---
+
+***1. INSTALL GIT***
+
 ~Bisa di download pada website https://git-scm.com/. Kemudian unduh sesuai arsitektur komputer kita,jika menggunakan 64bit,unduh yg 64bit. Begitu juga dengan yang 32bit.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/57055098/67630124-0c430a80-f8b5-11e9-9ae1-1783941ebef2.png)
@@ -19,7 +22,8 @@ untuk memastikan sudah terinstall,coba dengan cara buka CMD/ PowerShell melalui 
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/57055098/67630292-d3586500-f8b7-11e9-82a0-945b4965f57e.png)
 
-2. SIGN UP
+***2. SIGN UP***
+
 ~sebelum membuat Repository, silakan sign up di https://github.com/ . Isi username, email, dan password.
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/57055098/67630335-a6588200-f8b8-11e9-9946-20a8b70ab73e.png)
@@ -28,7 +32,8 @@ untuk memastikan sudah terinstall,coba dengan cara buka CMD/ PowerShell melalui 
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/57055098/67630378-2ed72280-f8b9-11e9-8a41-901948b7686b.png)
 
-3. BUAT REPOSITORY LOCAL
+***3. BUAT REPOSITORY LOCAL***
+
 ~Sebelum membuat Repository dilaman Github. terlebih dahulu buka direktory aktif dengan search git pada Windows Explore atau klik kanan sembarang di tampilan dekstop ataupun di Folder yang sudah kalian tentukan.
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/57055098/67630445-2d5a2a00-f8ba-11e9-81b6-60c1e29d3b0e.png)
@@ -75,10 +80,10 @@ $ git commit -m "komentar commit" (misal nama komentar "File Pertama Saya")
 (URL bisa didapatkan saat melakukan Repository Server).
 Berikut cara untuk mengetahui URL Anda :
 
-PEMBUATAN REPOSITORY SERVER
+**PEMBUATAN REPOSITORY SERVER**
+
   -Buat Repository Server, dengan menggunakan laman github https://github.com
-  Jika belum membuat akun buatlah Akun terlebih dahulu. Caranya ada diatas number "2. SIGN UP". Jika sudah mempunyai akun Anda bisa
-  Sign   in. Sehabis itu Anda bisa klik Start a Project atau dari menu icon ( + ) di pojok kanan atas, lalu pilih New Repository
+  Jika belum membuat akun buatlah Akun terlebih dahulu. Caranya ada diatas number "SIGN UP". Jika sudah mempunyai akun Anda bisa "SIGN IN". Lalu Anda bisa klik Start a Project atau dari menu icon ( + ) di pojok kanan atas, lalu pilih New Repository
   
   ![Screenshot (37)](https://user-images.githubusercontent.com/57055098/67631116-95157280-f8c4-11e9-923d-d7bd2e2a6cda.png)
   
@@ -97,7 +102,8 @@ PEMBUATAN REPOSITORY SERVER
   
   ![Screenshot (40)](https://user-images.githubusercontent.com/57055098/67631231-0c97d180-f8c6-11e9-984f-ae4582834438.png)
 
-KEMBALI KE REPOSITORY LOCAL atau GIT BASE COMMAND
+**KEMBALI KE REPOSITORY LOCAL atau GIT BASE COMMAND**
+
 ~Setelah menambahkan remote repository, selanjutnya lakukan PUSH (mengirim perubahan ke server). Untuk mengirim perubahan dari repository local ke reposiroty server bisa menggunakan perintah "git push".
 $ git push -u origin master
 
@@ -124,7 +130,8 @@ File README.md sudah bisa di edit
 ![Screenshot (45)](https://user-images.githubusercontent.com/57055098/67631425-eb84b000-f8c8-11e9-9948-69674398d79d.png)
 
 TERIMAKASIH SUDAH MEMBACA
-
+---
 TUGAS MATA KULIAH BAHASA PEMROGRAMAN
-
-DOSEN PENGAMPU AGUNG NUGROHO, S.Kom., M.Kom.
+---
+DOSEN AGUNG NUGROHO, S.Kom., M.Kom.
+---
